@@ -47,10 +47,6 @@ Neuroscience · Web application · Statistical analysis · Machine learning · S
 | **Bayesian networks** | Structure learning (15+ algorithms), parameter learning, visualisation, inference |
 | **Multidimensional classifiers** | Binary relevance, classifier chains, label powerset, RAkEL, multi-label k-NN, multi-label SVM |
 
-## Related repositories
-
-- **Platform source code:** [ComputationalIntelligenceGroup on GitHub](https://github.com/ComputationalIntelligenceGroup)
-
 ## License
 
 This paper is distributed under the terms of the [Creative Commons Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
